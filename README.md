@@ -68,7 +68,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
 - [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
 - [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
-- [TryHackMe | Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)
+- [TryHackMe |  File System Analysis](https://tryhackme.com/r/room/filesystemanalysis)
 - [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
 - [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
 - [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
@@ -102,8 +102,11 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 - [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 - [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-- [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2) -- Multiple persons have claimed this room is NO longer free, so we're scheduling its _redaction_
-- [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+- [Basics of Linux](https://linuxjourney.com/) -- added this since the funcdamentals rooms were all made premium.
+
+In case you need deeper study into Linux read follow these:
+[A very deep dive book](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf) -- It's around 900 pages
+[A reddit community where Linux challenges are posted daily](https://www.reddit.com/r/linuxupskillchallenge/) -- More like practice or keeping in loop
 
 ## Windows Fundamentals
 
