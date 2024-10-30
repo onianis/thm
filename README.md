@@ -776,6 +776,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Hard CTF
 
+- [TryHackMe | Rabbit Hole](https://tryhackme.com/r/room/rabbitholeqq)
+- [TryHackMe | Mountaineer](https://tryhackme.com/r/room/mountaineerlinux)
 - [TryHackMe | CERTain Doom](https://tryhackme.com/r/room/certaindoom)
 - [TryHackMe | Capture Returns](https://tryhackme.com/r/room/capturereturns)
 - [TryHackMe | Chrome](https://tryhackme.com/room/chrome)
