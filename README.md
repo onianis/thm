@@ -35,7 +35,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Scripting](#scripting)**                       |      **7**      |                           |
 | **[Networking](#networking)**                     |      **7**      |                           |
 | **[Tooling](#tooling)**                           |     **19**      |                           |
-| **[Crypto & Hashes](#crypto--hashes)**            |      **7**      |                           |
+| **[Crypto & Hashes](#cryptography--hashes)**      |      **7**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
 | **[Web](#web)**                                   |     **30**      |                           |
 | **[Android](#android)**                           |      **1**      |                           |
@@ -100,13 +100,13 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Linux Fundamentals
 
-- [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+- [TryHackMe |  Modules](https://tryhackme.com/room/linuxmodules)
 - [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 - [Basics of Linux](https://linuxjourney.com/) -- added this since the funcdamentals rooms were all made premium.
 
 In case you need deeper study into Linux read follow these:
-[A very deep dive book](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf) -- It's around 900 pages
-[A reddit community where Linux challenges are posted daily](https://www.reddit.com/r/linuxupskillchallenge/) -- More like practice or keeping in loop
+- [A very deep dive book](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf) -- It's around 900 pages
+- [A reddit community where Linux challenges are posted daily](https://www.reddit.com/r/linuxupskillchallenge/) -- More like practice or keeping in loop
 
 ## Windows Fundamentals
 
