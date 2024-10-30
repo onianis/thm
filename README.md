@@ -58,6 +58,13 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Intro Rooms
 
+- [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
+- [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
+- [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
+- [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
+- [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
+- [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
+- [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
 - [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
 - [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
 - [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
@@ -861,6 +868,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Misc
 
+- [TryHackMe | Training Impact on Teams](https://tryhackme.com/r/room/training)
 - [TryHackMe | PaperCut: CVE-2023-27350](https://tryhackme.com/r/room/papercut)
 - [TryHackMe | Moniker Link (CVE-2024-21413)](https://tryhackme.com/room/monikerlink)
 - [TryHackMe | Confluence CVE-2023-22515](https://tryhackme.com/room/confluence202322515)
