@@ -12,7 +12,7 @@ All the rooms herein, are absolute free. ATTACK!!
 
 ## NEWS
 
-Practice, Practice and Practice...! it'll all finally fall into place. No shortcut folks :)
+Hey cyber-hard guys, this year's [Advent of Cyber](https://tryhackme.com/r/room/adventofcyber2024) is on. Remember to check it out come December 2024. It'll help you up your game or solidify it.
 
 ## HOW YOU CAN SUPPORT
 
