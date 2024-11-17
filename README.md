@@ -456,6 +456,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Easy CTF
 
+- [TryHackMe | Threat Hunting With YARA](https://tryhackme.com/r/room/threathuntingwithyara)
 - [TryHackMe | Whiterose](https://tryhackme.com/r/room/whiterose)
 - [TryHackMe | Pyrat](https://tryhackme.com/r/room/pyrat)
 - [TryHackMe | Cheese CTF](https://tryhackme.com/r/room/cheesectfv10)
