@@ -971,6 +971,8 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023)
 
+- [TryHackMe | Advent of Cyber 2024](https://tryhackme.com/r/room/adventofcyber2024)
+
 - [TryHackMe | Advent of Cyber '23 Side Quest](https://tryhackme.com/room/adventofcyber23sidequest)
 
 - [TryHackMe | Cyber Scotland 2021](https://tryhackme.com/room/cyberweek2021)
