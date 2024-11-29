@@ -334,6 +334,8 @@ In case you need deeper study into Linux read follow these:
 
 ## Forensics
 
+- [TryHackMe | Supply Chain Attack: Lottie](https://tryhackme.com/r/room/supplychainattacks)
+- [TryHackMe | Incident Response Process](https://tryhackme.com/r/room/incidentresponseprocess)
 - [TryHackMe | Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)
 - [TryHackMe | IR Playbooks](https://tryhackme.com/r/room/irplaybooks)
 - [TryHackMe | Intro to Cold System Forensics](https://tryhackme.com/r/room/introtocoldsystemforensics)
@@ -456,6 +458,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Easy CTF
 
+- [TryHackMe | Lookup](https://tryhackme.com/r/room/lookup)
 - [TryHackMe | Threat Hunting With YARA](https://tryhackme.com/r/room/threathuntingwithyara)
 - [TryHackMe | Whiterose](https://tryhackme.com/r/room/whiterose)
 - [TryHackMe | Pyrat](https://tryhackme.com/r/room/pyrat)
