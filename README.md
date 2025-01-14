@@ -458,6 +458,8 @@ In case you need deeper study into Linux read follow these:
 
 ## Easy CTF
 
+- [TryHackMe | Silver Platter](https://tryhackme.com/r/room/silverplatter)
+- [TryHackMe | The Sticker Shop](https://tryhackme.com/r/room/thestickershop)
 - [TryHackMe | Lookup](https://tryhackme.com/r/room/lookup)
 - [TryHackMe | Threat Hunting With YARA](https://tryhackme.com/r/room/threathuntingwithyara)
 - [TryHackMe | Whiterose](https://tryhackme.com/r/room/whiterose)
