@@ -187,7 +187,7 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
-- [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
+- ~~[TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)~~ -- TryHackMe made this room **PREMIUM**. Try using [this deep](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet) Khan Academy resource, it's excellent trust me!
 
 - [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
