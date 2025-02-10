@@ -116,6 +116,8 @@ In case you need deeper study into Linux read follow these:
 
 ## Basics Rooms
 
+- [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
+- [TryHackMe | Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
 - [TryHackMe | Hypervisor Internals](https://tryhackme.com/r/room/hypervisorinternals)
 - [TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 
@@ -334,6 +336,8 @@ In case you need deeper study into Linux read follow these:
 
 ## Forensics
 
+- [TryHackMe | FAT32 Analysis](https://tryhackme.com/room/fat32analysis)
+- [TryHackMe | MBR and GPT Analysis](https://tryhackme.com/room/mbrandgptanalysis)
 - [TryHackMe | Supply Chain Attack: Lottie](https://tryhackme.com/r/room/supplychainattacks)
 - [TryHackMe | Incident Response Process](https://tryhackme.com/r/room/incidentresponseprocess)
 - [TryHackMe | Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)
@@ -458,6 +462,8 @@ In case you need deeper study into Linux read follow these:
 
 ## Easy CTF
 
+- [TryHackMe | Light](https://tryhackme.com/room/lightroom)
+- [TryHackMe | Lo-Fi](https://tryhackme.com/room/lofi)
 - [TryHackMe | Silver Platter](https://tryhackme.com/r/room/silverplatter)
 - [TryHackMe | The Sticker Shop](https://tryhackme.com/r/room/thestickershop)
 - [TryHackMe | Lookup](https://tryhackme.com/r/room/lookup)
@@ -609,6 +615,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Medium CTF
 
+- [TryHackMe | Smol](https://tryhackme.com/room/smol)
 - [TryHackMe | Backtrack](https://tryhackme.com/r/room/backtrack)
 - [TryHackMe | Extracted](https://tryhackme.com/r/room/extractedroom)
 - [TryHackMe | The London Bridge](https://tryhackme.com/r/room/thelondonbridge)
