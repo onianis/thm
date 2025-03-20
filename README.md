@@ -465,6 +465,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Easy CTF
 
+- [TryHackMe | Billing](https://tryhackme.com/room/billing)
 - [TryHackMe | Light](https://tryhackme.com/room/lightroom)
 - [TryHackMe | Lo-Fi](https://tryhackme.com/room/lofi)
 - [TryHackMe | Silver Platter](https://tryhackme.com/r/room/silverplatter)
@@ -618,6 +619,8 @@ In case you need deeper study into Linux read follow these:
 
 ## Medium CTF
 
+- [TryHackMe | Robots](https://tryhackme.com/room/robots)
+- [TryHackMe | Hackfinity Battle](https://tryhackme.com/room/HackfinityBattle)
 - [TryHackMe | Rabbit Store](https://tryhackme.com/room/rabbitstore)
 - [TryHackMe | Smol](https://tryhackme.com/room/smol)
 - [TryHackMe | Backtrack](https://tryhackme.com/r/room/backtrack)
