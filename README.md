@@ -12,7 +12,7 @@ All the rooms herein, are absolutely free. ATTACK!!
 
 ## NEWS
 
-Hey cyber-hard guys, this year's [Advent of Cyber](https://tryhackme.com/r/room/adventofcyber2024) is on. Remember to check it out come December 2024. It'll help you up your game or solidify it.
+Hey cyber-hard guys, no news for now. Just go hard at your grind each second of the day
 
 ## HOW YOU CAN SUPPORT
 
@@ -117,6 +117,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Basics Rooms
 
+- [TryHackMe | Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
 - [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [TryHackMe | Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
 - [TryHackMe | Hypervisor Internals](https://tryhackme.com/r/room/hypervisorinternals)
@@ -167,6 +168,7 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
 ## Scripting
+- [TryHackMe | Custom Tooling Using Python](https://tryhackme.com/room/customtoolingpython)
 
 - [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
@@ -340,7 +342,7 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Forensics
-
+- [TryHackMe | Memory Analysis Introduction](https://tryhackme.com/room/memoryanalysisintroduction)
 - [TryHackMe | MS Sentinel: Just Looking](https://tryhackme.com/room/justlooking)
 - [TryHackMe | SOC L1 Alert Triage](https://tryhackme.com/room/socl1alerttriage)
 - [TryHackMe | Compromised Windows Analysis](https://tryhackme.com/room/compromisedwindowsanalysis)
@@ -404,6 +406,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Malware Analysis
 
+- [TryHackMe | APT28 Inception Theory](https://tryhackme.com/room/apt28inceptiontheory)
 - [TryHackMe | Intro to Detection Engineering](https://tryhackme.com/room/introtodetectionengineering)
 
 - [TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
@@ -451,6 +454,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Active Directory
 
+- [TryHackMe | AD: Basic Enumeration](https://tryhackme.com/room/adbasicenumeration)
 - [TryHackMe | Active Directory Hardening](https://tryhackme.com/room/activedirectoryening)
 - [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 - [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
@@ -465,7 +469,7 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
 - [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
-## BufferOverflow
+## Buffer Overflow
 
 - [TryHackMe | Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
 - [TryHackMe | Gatekeeper](https://tryhackme.com/room/gatekeeper)
@@ -627,7 +631,9 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
 ## Medium CTF
-
+- [TryHackMe | Volt Typhoon](https://tryhackme.com/room/volttyphoon)
+- [TryHackMe | Logless Hunt](https://tryhackme.com/room/loglesshunt)
+- [TryHackMe | Security Footage](https://tryhackme.com/room/securityfootage)
 - [TryHackMe | Mayhem](https://tryhackme.com/room/mayhemroom)
 - [TryHackMe | Robots](https://tryhackme.com/room/robots)
 - [TryHackMe | Hackfinity Battle](https://tryhackme.com/room/HackfinityBattle)
@@ -817,6 +823,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Hard CTF
 
+- [TryHackMe | Moebius](https://tryhackme.com/room/moebius)
 - [TryHackMe | Rabbit Hole](https://tryhackme.com/r/room/rabbitholeqq)
 - [TryHackMe | Mountaineer](https://tryhackme.com/r/room/mountaineerlinux)
 - [TryHackMe | CERTain Doom](https://tryhackme.com/r/room/certaindoom)
@@ -902,6 +909,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Misc
 
+- [TryHackMe | Erlang/OTP SSH: CVE_2025_32433](https://tryhackme.com/room/erlangotpsshcve202532433)
 - [TryHackMe | Next.js: CVE-2025-29927](https://tryhackme.com/room/nextjscve202529927)
 - [TryHackMe | Training Impact on Teams](https://tryhackme.com/r/room/training)
 - [TryHackMe | PaperCut: CVE-2023-27350](https://tryhackme.com/r/room/papercut)
