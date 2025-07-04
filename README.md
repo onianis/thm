@@ -54,7 +54,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Misc](#misc)**                                 |     **40**      |                           |
 | **[Special Events](#special-events)**             |     **10**      |                           |
 | **[Container Security](#container-security)**     |      **2**      |                           |
-| **Total Rooms:**                                  |    **= 392**    |                           |
+| **Total Rooms:**                                  |    **>= 392**    |                           |
 
 ## Intro Rooms
 
@@ -148,7 +148,7 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
 ## Recon
-
+- [TryHackMe | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)
 - [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
 - [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
@@ -342,6 +342,9 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Forensics
+- [TryHackMe | Windows Logging for SOC](https://tryhackme.com/room/windowsloggingforsoc)
+- [TryHackMe | Mobile Acquisition](https://tryhackme.com/room/mobileacquisition)
+- [TryHackMe | Volatility Essentials](https://tryhackme.com/room/volatilityessentials)
 - [TryHackMe | Memory Analysis Introduction](https://tryhackme.com/room/memoryanalysisintroduction)
 - [TryHackMe | MS Sentinel: Just Looking](https://tryhackme.com/room/justlooking)
 - [TryHackMe | SOC L1 Alert Triage](https://tryhackme.com/room/socl1alerttriage)
@@ -477,7 +480,7 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
-
+- [TryHackMe | Oracle 9](https://tryhackme.com/room/oracle9)
 - [TryHackMe | Billing](https://tryhackme.com/room/billing)
 - [TryHackMe | Light](https://tryhackme.com/room/lightroom)
 - [TryHackMe | Lo-Fi](https://tryhackme.com/room/lofi)
@@ -631,6 +634,7 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
 ## Medium CTF
+- [TryHackMe | Industrial Intrusion](https://tryhackme.com/room/industrial-intrusion)
 - [TryHackMe | Volt Typhoon](https://tryhackme.com/room/volttyphoon)
 - [TryHackMe | Logless Hunt](https://tryhackme.com/room/loglesshunt)
 - [TryHackMe | Security Footage](https://tryhackme.com/room/securityfootage)
@@ -908,7 +912,7 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Shaker](https://tryhackme.com/room/shaker)
 
 ## Misc
-
+- [TryHackMe | Roundcube: CVE-2025-49113](https://tryhackme.com/room/roundcubecve202549113)
 - [TryHackMe | Erlang/OTP SSH: CVE_2025_32433](https://tryhackme.com/room/erlangotpsshcve202532433)
 - [TryHackMe | Next.js: CVE-2025-29927](https://tryhackme.com/room/nextjscve202529927)
 - [TryHackMe | Training Impact on Teams](https://tryhackme.com/r/room/training)
