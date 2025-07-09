@@ -297,7 +297,7 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
-- [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
+- ~~[TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)~~ -- Sadly..! This was made __PREMIUM__
 
 - [TryHackMe | OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 
