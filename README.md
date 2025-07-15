@@ -2,12 +2,10 @@
 
 ## Table of Contents
 
-</aside>
-
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |     **19**      |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **5**           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
@@ -26,31 +24,45 @@
 | **[Windows](#windows)**                           |      **9**      |                           |
 | **[Active Directory](#active-directory)**         |      **6**      |                           |
 | **[PCAP Analysis](#pcap-analysis)**               |      **4**      |                           |
-| **[Buffer Overflow](#bufferoverflow)**            |      **4**      |                           |
+| **[Buffer Overflow](#buffer-overflow)**           |      **4**      |                           |
 | **[Easy CTF](#easy-ctf)**                         |     **52**      |                           |
 | **[Medium CTF](#medium-ctf)**                     |     **55**      |                           |
 | **[Hard CTF](#hard-ctf)**                         |     **40**      |                           |
 | **[Misc](#misc)**                                 |     **40**      |                           |
 | **[Special Events](#special-events)**             |     **10**      |                           |
 | **[Container Security](#container-security)**     |      **2**      |                           |
-| **Total Rooms:**                                  |    **>= 392**    |                           |
+| **TOTAL ROOMS:**                                  |    **392**      |                           |
+
 
 ## Intro Rooms
-
-- [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
-- [ ] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
-- [ ] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
-- [ ] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
-- [ ] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
+- [X] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
+      
+- [X] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
+      
+- [X] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
+      
+- [X] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
+      
+- [X] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
+      
 - [ ] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
+      
 - [ ] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
+      
 - [ ] [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
+      
 - [ ] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
+      
 - [ ] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
+      
 - [ ] [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
+      
 - [ ] [TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
+      
 - [ ] [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
+      
 - [ ] [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
+      
 - [ ] [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
 - [ ] [TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
@@ -58,6 +70,7 @@
 - [ ] [TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
 - [ ] [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
+      
 - [ ] [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
 - [ ] [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
@@ -78,28 +91,35 @@
 
 - [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
+
 ## Linux Fundamentals
-
 - [ ] [TryHackMe |  Modules](https://tryhackme.com/room/linuxmodules)
+      
 - [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-- [Basics of Linux](https://linuxjourney.com/) -- added this since the funcdamentals rooms were all made premium.
 
-In case you need deeper study into Linux read follow these:
-- [A very deep dive book](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf) -- It's around 900 pages
-- [A reddit community where Linux challenges are posted daily](https://www.reddit.com/r/linuxupskillchallenge/) -- More like practice or keeping in loop
+Alternative sources (due to paywalling of Linux Fundamentals):
+- [Basics of Linux](https://linuxjourney.com/)
+- [A very deep dive book](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf)
+- [A reddit community where Linux challenges are posted daily](https://www.reddit.com/r/linuxupskillchallenge/)
+
 
 ## Windows Fundamentals
-
 - [ ] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+      
 - [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+      
 - [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+      
 
 ## Basics Rooms
-
 - [ ] [TryHackMe | Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
+      
 - [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
+      
 - [ ] [TryHackMe | Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
+      
 - [ ] [TryHackMe | Hypervisor Internals](https://tryhackme.com/r/room/hypervisorinternals)
+      
 - [ ] [TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 
 - [ ] [TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
@@ -126,8 +146,10 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
+
 ## Recon
 - [ ] [TryHackMe | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)
+      
 - [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
 - [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
@@ -146,6 +168,7 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
+
 ## Scripting
 - [ ] [TryHackMe | Custom Tooling Using Python](https://tryhackme.com/room/customtoolingpython)
 
@@ -163,15 +186,15 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
-## Networking
 
+## Networking
 - [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
 - [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
-- ~~[TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)~~ -- TryHackMe made this room **PREMIUM**. Try using [this deep](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet) Khan Academy resource, it's excellent trust me!
+- ~~[TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)~~ -- Now PREMIUM. [Alternative resource](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet)
 
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
@@ -179,10 +202,12 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
-## Tooling
 
+## Tooling
 - [ ] [TryHackMe | Snyk Open Source](https://tryhackme.com/r/room/snykopensource)
+      
 - [ ] [TryHackMe | Snyk Code](https://tryhackme.com/r/room/snykcode)
+      
 - [ ] [TryHackMe | Intro to IaC](https://tryhackme.com/room/introtoiac)
 
 - [ ] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
@@ -217,14 +242,16 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
-## Container Security
 
+## Container Security
 - [ ] [TryHackMe | K8s Runtime Security](https://tryhackme.com/r/room/k8sruntimesecurity)
+      
 - [ ] [TryHackMe | K8s Best Security Practices](https://tryhackme.com/r/room/k8sbestsecuritypractices)
+      
 - [ ] [TryHackMe | Cluster Hardening](https://tryhackme.com/r/room/clusterhardening)
 
-## Cryptography & Hashes
 
+## Cryptography & Hashes
 - [ ] [TryHackMe | Breaking Crypto the Simple Way](https://tryhackme.com/room/breakingcryptothesimpleway)
 
 - [ ] [TryHackMe | Crypto Failures](https://tryhackme.com/room/cryptofailures)
@@ -243,8 +270,8 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro)
 
-## Steganography
 
+## Steganography
 - [ ] [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)
 
 - [ ] [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
@@ -257,15 +284,22 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
-## Web
 
+## Web
 - [ ] [TryHackMe | Microservices Architectures](https://tryhackme.com/r/room/microservicearchitectures)
+      
 - [ ] [TryHackMe | NoSQL Injection](https://tryhackme.com/r/room/nosqlinjectiontutorial)
+      
 - [ ] [TryHackMe | Advanced SQL Injection](https://tryhackme.com/r/room/advancedsqlinjection)
+      
 - [ ] [TryHackMe | XSS](https://tryhackme.com/r/room/axss)
+      
 - [ ] [TryHackMe | CSRF](https://tryhackme.com/r/room/csrfV2)
+      
 - [ ] [TryHackMe | File Inclusion, Path Traversal](https://tryhackme.com/room/filepathtraversal)
+      
 - [ ] [TryHackMe | HTTP Request Smuggling](https://tryhackme.com/room/httprequestsmuggling)
+      
 - [ ] [TryHackMe | HTTP/2 Request Smuggling](https://tryhackme.com/room/http2requestsmuggling)
 
 - [ ] [TryHackMe | SSRF](https://tryhackme.com/room/ssrfhr)
@@ -276,7 +310,7 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
-- ~~[TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)~~ -- Sadly..! This was made __PREMIUM__
+- ~~[TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)~~ -- Now PREMIUM
 
 - [ ] [TryHackMe | OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 
@@ -316,30 +350,50 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
-## Android
 
+## Android
 - [ ] [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
+
 
 ## Forensics
 - [ ] [TryHackMe | Windows Logging for SOC](https://tryhackme.com/room/windowsloggingforsoc)
+      
 - [ ] [TryHackMe | Mobile Acquisition](https://tryhackme.com/room/mobileacquisition)
+      
 - [ ] [TryHackMe | Volatility Essentials](https://tryhackme.com/room/volatilityessentials)
+      
 - [ ] [TryHackMe | Memory Analysis Introduction](https://tryhackme.com/room/memoryanalysisintroduction)
+      
 - [ ] [TryHackMe | MS Sentinel: Just Looking](https://tryhackme.com/room/justlooking)
+      
 - [ ] [TryHackMe | SOC L1 Alert Triage](https://tryhackme.com/room/socl1alerttriage)
+      
 - [ ] [TryHackMe | Compromised Windows Analysis](https://tryhackme.com/room/compromisedwindowsanalysis)
+      
 - [ ] [TryHackMe | SOC L1 Alert Reporting](https://tryhackme.com/room/socl1alertreporting)
+      
 - [ ] [TryHackMe | macOS Forensics: Artefacts](https://tryhackme.com/room/macosforensicsartefacts)
+      
 - [ ] [TryHackMe | macOS Forensics: The Basics](https://tryhackme.com/room/macosforensicsbasics)
+      
 - [ ] [TryHackMe | FAT32 Analysis](https://tryhackme.com/room/fat32analysis)
+      
 - [ ] [TryHackMe | MBR and GPT Analysis](https://tryhackme.com/room/mbrandgptanalysis)
+      
 - [ ] [TryHackMe | Supply Chain Attack: Lottie](https://tryhackme.com/r/room/supplychainattacks)
+      
 - [ ] [TryHackMe | Incident Response Process](https://tryhackme.com/r/room/incidentresponseprocess)
+      
 - [ ] [TryHackMe | Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)
+      
 - [ ] [TryHackMe | IR Playbooks](https://tryhackme.com/r/room/irplaybooks)
+      
 - [ ] [TryHackMe | Intro to Cold System Forensics](https://tryhackme.com/r/room/introtocoldsystemforensics)
+      
 - [ ] [TryHackMe | Forensic Imaging](https://tryhackme.com/r/room/forensicimaging)
+      
 - [ ] [TryHackMe | IR Philosophy and Ethics](https://tryhackme.com/r/room/irphilosophyethics)
+      
 - [ ] [TryHackMe | Windows Applications Forensics](https://tryhackme.com/r/room/windowsapplications)
 
 - [ ] [TryHackMe | Legal Considerations in DFIR](https://tryhackme.com/room/dfirprocesslegalconsiderations)
@@ -360,12 +414,12 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
 
-## Wi-Fi Hacking
 
+## Wi-Fi Hacking
 - [ ] [TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
 
-## Reverse Engineering
 
+## Reverse Engineering
 - [ ] [TryHackMe | Intro to x86-64](https://tryhackme.com/room/introtox8664)
 
 - [ ] [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
@@ -386,9 +440,10 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | REloaded](https://tryhackme.com/room/reloaded)
 
-## Malware Analysis
 
+## Malware Analysis
 - [ ] [TryHackMe | APT28 Inception Theory](https://tryhackme.com/room/apt28inceptiontheory)
+      
 - [ ] [TryHackMe | Intro to Detection Engineering](https://tryhackme.com/room/introtodetectionengineering)
 
 - [ ] [TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
@@ -405,105 +460,185 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9)
 
-## PrivEsc
 
+## PrivEsc
 - [ ] [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
+      
 - [ ] [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
+      
 - [ ] [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
+      
 - [ ] [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
+      
 - [ ] [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
+      
 - [ ] [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
+      
 - [ ] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
+      
 - [ ] [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
+      
 - [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
+      
 - [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+      
 - [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
+      
 - [ ] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+      
 - [ ] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
-## Windows
 
+## Windows
 - [ ] [TryHackMe | XDR: Introduction](https://tryhackme.com/room/xdrintroduction)
+      
 - [ ] [TryHackMe | Windows Incident Surface](https://tryhackme.com/r/room/winincidentsurface)
+      
 - [ ] [TryHackMe | Registry Persistence Detection](https://tryhackme.com/room/registrypersistencedetection)
+      
 - [ ] [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
+      
 - [ ] [TryHackMe | Investigating Windows 2.0](https://tryhackme.com/room/investigatingwindows2)
+      
 - [ ] [TryHackMe | Investigating Windows 3.x](https://tryhackme.com/room/investigatingwindows3)
+      
 - [ ] [TryHackMe | Blueprint](https://tryhackme.com/room/blueprint)
+      
 - [ ] [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
+      
 - [ ] [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
+      
 - [ ] [TryHackMe | Blue](https://tryhackme.com/room/blue)
 
-## Active Directory
 
+## Active Directory
 - [ ] [TryHackMe | AD: Basic Enumeration](https://tryhackme.com/room/adbasicenumeration)
+      
 - [ ] [TryHackMe | Active Directory Hardening](https://tryhackme.com/room/activedirectoryening)
+      
 - [ ] [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
+      
 - [ ] [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
+      
 - [ ] [TryHackMe | USTOUN](https://tryhackme.com/room/ustoun)
+      
 - [ ] [TryHackMe | Enterprise](https://tryhackme.com/room/enterprise)
+      
 - [ ] [TryHackMe | RazorBlack](https://tryhackme.com/room/raz0rblack)
 
-## PCAP Analysis
 
+## PCAP Analysis
 - [ ] [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
+      
 - [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
+      
 - [ ] [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
+      
 - [ ] [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
+
 
 ## Buffer Overflow
 
 - [ ] [TryHackMe | Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
+      
 - [ ] [TryHackMe | Gatekeeper](https://tryhackme.com/room/gatekeeper)
+      
 - [ ] [TryHackMe | Chronicle](https://tryhackme.com/room/chronicle)
+      
 - [ ] [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
+      
 
 ## Easy CTF
 - [ ] [TryHackMe | Oracle 9](https://tryhackme.com/room/oracle9)
+      
 - [ ] [TryHackMe | Billing](https://tryhackme.com/room/billing)
+      
 - [ ] [TryHackMe | Light](https://tryhackme.com/room/lightroom)
+      
 - [ ] [TryHackMe | Lo-Fi](https://tryhackme.com/room/lofi)
+      
 - [ ] [TryHackMe | Silver Platter](https://tryhackme.com/r/room/silverplatter)
+      
 - [ ] [TryHackMe | The Sticker Shop](https://tryhackme.com/r/room/thestickershop)
+      
 - [ ] [TryHackMe | Lookup](https://tryhackme.com/r/room/lookup)
+      
 - [ ] [TryHackMe | Threat Hunting With YARA](https://tryhackme.com/r/room/threathuntingwithyara)
+      
 - [ ] [TryHackMe | Whiterose](https://tryhackme.com/r/room/whiterose)
+      
 - [ ] [TryHackMe | Pyrat](https://tryhackme.com/r/room/pyrat)
+      
 - [ ] [TryHackMe | Cheese CTF](https://tryhackme.com/r/room/cheesectfv10)
+      
 - [ ] [TryHackMe | U.A. High School](https://tryhackme.com/r/room/yueiua)
+      
 - [ ] [TryHackMe | Joomify](https://tryhackme.com/r/room/joomify)
+      
 - [ ] [TryHackMe | Critical](https://tryhackme.com/r/room/critical)
+      
 - [ ] [TryHackMe | Publisher](https://tryhackme.com/r/room/publisher)
+      
 - [ ] [TryHackMe | W1seGuy](https://tryhackme.com/r/room/w1seguy)
+      
 - [ ] [TryHackMe | mKingdom](https://tryhackme.com/r/room/mkingdom)
+      
 - [ ] [TryHackMe | Linux Process Analysis](https://tryhackme.com/r/room/linuxprocessanalysis)
+      
 - [ ] [TryHackMe | CyberLens](https://tryhackme.com/r/room/cyberlensp6)
+      
 - [ ] [TryHackMe | TryHack3M: Bricks Heist](https://tryhackme.com/r/room/tryhack3mbricksheist)
+      
 - [ ] [TryHackMe | Creative](https://tryhackme.com/r/room/creative)
+      
 - [ ] [TryHackMe | Eviction](https://tryhackme.com/room/eviction)
+      
 - [ ] [TryHackMe | Probe](https://tryhackme.com/room/probe)
+      
 - [ ] [TryHackMe | Dreaming](https://tryhackme.com/room/dreaming)
+
 - [ ] [TryHackMe | The Witch's Cauldron](https://tryhackme.com/room/cauldron)
+      
 - [ ] [TryHackMe | Bulletproof Penguin ](https://tryhackme.com/room/bppenguin)
+      
 - [ ] [TryHackMe | Hijack ](https://tryhackme.com/room/hijack)
+      
 - [ ] [TryHackMe | Compiled ](https://tryhackme.com/room/compiled)
+      
 - [ ] [TryHackMe | Super Secret TIp](https://tryhackme.com/room/supersecrettip)
+      
 - [ ] [TryHackMe | Lesson Learned?](https://tryhackme.com/room/lessonlearned)
+      
 - [ ] [TryHackMe | Grep](https://tryhackme.com/room/greprtp)
+      
 - [ ] [TryHackMe | Red](https://tryhackme.com/room/redisl33t)
+      
 - [ ] [TryHackMe | Snapped "Phish"-ing Line](https://tryhackme.com/room/snappedphishingline)
+      
 - [ ] [TryHackMe | Cat Pictures 2](https://tryhackme.com/room/catpictures2)
+      
 - [ ] [TryHackMe | Flip](https://tryhackme.com/room/flip)
+      
 - [ ] [TryHackMe | Valley!](https://tryhackme.com/room/valleype)
+      
 - [ ] [TryHackMe | Capture!](https://tryhackme.com/room/capture)
+      
 - [ ] [TryHackMe | Opacity](https://tryhackme.com/room/opacity)
+      
 - [ ] [TryHackMe | LookBack](https://tryhackme.com/room/lookback)
+      
 - [ ] [TryHackMe | Bugged](https://tryhackme.com/room/bugged)
+      
 - [ ] [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
+      
 - [ ] [TryHackMe | Confidential](https://tryhackme.com/room/confidential)
+      
 - [ ] [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
+      
 - [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
+      
 - [ ] [TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
+      
 - [ ] [TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
 
 - [ ] [TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
@@ -612,32 +747,58 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
+
 ## Medium CTF
 - [ ] [TryHackMe | Industrial Intrusion](https://tryhackme.com/room/industrial-intrusion)
+      
 - [ ] [TryHackMe | Volt Typhoon](https://tryhackme.com/room/volttyphoon)
+      
 - [ ] [TryHackMe | Logless Hunt](https://tryhackme.com/room/loglesshunt)
+      
 - [ ] [TryHackMe | Security Footage](https://tryhackme.com/room/securityfootage)
+      
 - [ ] [TryHackMe | Mayhem](https://tryhackme.com/room/mayhemroom)
+      
 - [ ] [TryHackMe | Robots](https://tryhackme.com/room/robots)
+      
 - [ ] [TryHackMe | Hackfinity Battle](https://tryhackme.com/room/HackfinityBattle)
+      
 - [ ] [TryHackMe | Rabbit Store](https://tryhackme.com/room/rabbitstore)
+      
 - [ ] [TryHackMe | Smol](https://tryhackme.com/room/smol)
+      
 - [ ] [TryHackMe | Backtrack](https://tryhackme.com/r/room/backtrack)
+      
 - [ ] [TryHackMe | Extracted](https://tryhackme.com/r/room/extractedroom)
+      
 - [ ] [TryHackMe | The London Bridge](https://tryhackme.com/r/room/thelondonbridge)
+      
 - [ ] [TryHackMe | Breakme](https://tryhackme.com/r/room/breakmenu)
+      
 - [ ] [TryHackMe | Block](https://tryhackme.com/r/room/blockroom)
+      
 - [ ] [TryHackMe | APIWizards Breach](https://tryhackme.com/r/room/apiwizardsbreach)
+      
 - [ ] [TryHackMe | New York Flankees](https://tryhackme.com/r/room/thenewyorkflankees)
+      
 - [ ] [TryHackMe | Airplane](https://tryhackme.com/r/room/airplane)
+      
 - [ ] [TryHackMe | Profiles](https://tryhackme.com/r/room/profilesroom)
+      
 - [ ] [TryHackMe | Clocky](https://tryhackme.com/r/room/clocky)
+      
 - [ ] [TryHackMe | Hack Smarter Security](https://tryhackme.com/room/hacksmartersecurity)
+      
 - [ ] [TryHackMe | Kitty](https://tryhackme.com/room/kitty)
+      
 - [ ] [TryHackMe | Umbrella](https://tryhackme.com/room/umbrella)
+      
 - [ ] [TryHackMe | AVenger](https://tryhackme.com/room/avenger)
+      
 - [ ] [TryHackMe | WhyHackMe](https://tryhackme.com/room/whyhackme)
+      
 - [ ] [TryHackMe | Stealth](https://tryhackme.com/room/stealth)
+      
 - [ ] [TryHackMe | Hunt Me I: Payment Collectors](https://tryhackme.com/room/paymentcollectors)
 
 - [ ] [TryHackMe | Hunt Me II: Typo Squatters](https://tryhackme.com/room/typosquatters)
@@ -804,14 +965,20 @@ In case you need deeper study into Linux read follow these:
 
 - [ ] [TryHackMe | Road](https://tryhackme.com/room/road)
 
-## Hard CTF
 
+## Hard CTF
 - [ ] [TryHackMe | Moebius](https://tryhackme.com/room/moebius)
+      
 - [ ] [TryHackMe | Rabbit Hole](https://tryhackme.com/r/room/rabbitholeqq)
+      
 - [ ] [TryHackMe | Mountaineer](https://tryhackme.com/r/room/mountaineerlinux)
+      
 - [ ] [TryHackMe | CERTain Doom](https://tryhackme.com/r/room/certaindoom)
+      
 - [ ] [TryHackMe | Capture Returns](https://tryhackme.com/r/room/capturereturns)
+      
 - [ ] [TryHackMe | Chrome](https://tryhackme.com/room/chrome)
+      
 - [ ] [TryHackMe | Reset](https://tryhackme.com/room/resetui)
 
 - [ ] [TryHackMe | Motunui](https://tryhackme.com/room/motunui)
@@ -892,20 +1059,27 @@ In case you need deeper study into Linux read follow these:
 
 ## Misc
 - [ ] [TryHackMe | Roundcube: CVE-2025-49113](https://tryhackme.com/room/roundcubecve202549113)
+      
 - [ ] [TryHackMe | Erlang/OTP SSH: CVE_2025_32433](https://tryhackme.com/room/erlangotpsshcve202532433)
+      
 - [ ] [TryHackMe | Next.js: CVE-2025-29927](https://tryhackme.com/room/nextjscve202529927)
+      
 - [ ] [TryHackMe | Training Impact on Teams](https://tryhackme.com/r/room/training)
+      
 - [ ] [TryHackMe | PaperCut: CVE-2023-27350](https://tryhackme.com/r/room/papercut)
+      
 - [ ] [TryHackMe | Moniker Link (CVE-2024-21413)](https://tryhackme.com/room/monikerlink)
+      
 - [ ] [TryHackMe | Confluence CVE-2023-22515](https://tryhackme.com/room/confluence202322515)
 
 - [ ] [TryHackMe | GitLab CVE-2023-7028](https://tryhackme.com/room/gitlabcve20237028)
 
 - [ ] [TryHackMe | Cactus](https://tryhackme.com/room/cactus)
 
-- [ TryHackMe | Looney Tunables ](https://tryhackme.com/room/looneytunes)
+- [ ] [TryHackMe | Looney Tunables ](https://tryhackme.com/room/looneytunes)
 
 - [ ] [TryHackMe | Threat Intel & Containment](https://tryhackme.com/room/intelcreationandcontainment)
+      
 - [ ] [TryHackMe | CVE-2023-38408](https://tryhackme.com/room/cve202338408)
 
 - [ ] [TryHackMe | Introduction to Django](https://tryhackme.com/room/django)
@@ -979,20 +1153,19 @@ In case you need deeper study into Linux read follow these:
 - [ ] [TryHackMe | The find command](https://tryhackme.com/room/thefindcommand)
 
 ## Special Events
-
 - [ ] [TryHackMe | 25 Days of Cyber Security](https://tryhackme.com/room/learncyberin25days)
 
-- [ ] [TryHackMe | Advent of Cyber 1 [2019]](https://tryhackme.com/room/25daysofchristmas)
+- [ ] [TryHackMe | Advent of Cyber 1 (2019)](https://tryhackme.com/room/25daysofchristmas)
 
-- [ ] [TryHackMe | Advent of Cyber 2 [2020]](https://tryhackme.com/room/adventofcyber2)
+- [ ] [TryHackMe | Advent of Cyber 2 (2020)](https://tryhackme.com/room/adventofcyber2)
 
 - [ ] [TryHackMe | Advent of Cyber 3 (2021)](https://tryhackme.com/room/adventofcyber3)
 
-- [ ] [TryHackMe | Advent of Cyber 2022](https://tryhackme.com/room/adventofcyber4)
+- [ ] [TryHackMe | Advent of Cyber (2022)](https://tryhackme.com/room/adventofcyber4)
 
-- [ ] [TryHackMe | Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023)
+- [ ] [TryHackMe | Advent of Cyber (2023)](https://tryhackme.com/room/adventofcyber2023)
 
-- [ ] [TryHackMe | Advent of Cyber 2024](https://tryhackme.com/r/room/adventofcyber2024)
+- [ ] [TryHackMe | Advent of Cyber (2024)](https://tryhackme.com/r/room/adventofcyber2024)
 
 - [ ] [TryHackMe | Advent of Cyber '23 Side Quest](https://tryhackme.com/room/adventofcyber23sidequest)
 
