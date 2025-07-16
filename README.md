@@ -47,21 +47,21 @@
       
 - [X] [THM | Search Skills](https://tryhackme.com/r/room/searchskills)
       
-- [ ] [THM | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
+- [X] [THM | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
       
-- [ ] [THM | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
+- [X] [THM | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
       
-- [ ] [THM | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
+- [X] [THM | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
       
-- [ ] [THM | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
+- [X] [THM | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
       
-- [ ] [THM | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
+- [X] [THM | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
       
-- [ ] [THM | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
+- [ ] [THM | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold) -- Postpone for later. Prereqs are premium.
       
-- [ ] [THM | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
+- [X] [THM | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
       
-- [ ] [THM | Preparation](https://tryhackme.com/room/preparation)
+- [ ] [THM | Preparation](https://tryhackme.com/room/preparation) -- Postpone
 
 - [ ] [THM | Introduction to Cyber Threat Intelligence](https://tryhackme.com/room/cyberthreatintel)
 
@@ -75,25 +75,25 @@
 
 - [ ] [THM | SDLC](https://tryhackme.com/room/sdlc)
 
-- [ ] [THM | Welcome](https://tryhackme.com/room/hello)
+- [X] [THM | Welcome](https://tryhackme.com/room/hello)
 
-- [ ] [THM | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [X] [THM | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-- [ ] [THM | Tutorial](https://tryhackme.com/room/tutorial)
+- [X] [THM | Tutorial](https://tryhackme.com/room/tutorial)
 
-- [ ] [THM | OpenVPN](https://tryhackme.com/room/openvpn)
+- [X] [THM | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [ ] [THM | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [X] [THM | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
-- [ ] [THM | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [X] [THM | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
-- [ ] [THM | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [X] [THM | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
-- [ ] [THM | Regular expressions](https://tryhackme.com/room/catregex)
+- [X] [THM | Regular expressions](https://tryhackme.com/room/catregex)
 
 
 ## Linux Fundamentals
-- [ ] [THM |  Modules](https://tryhackme.com/room/linuxmodules)
+- [X] [THM |  Modules](https://tryhackme.com/room/linuxmodules)
       
 - [ ] [THM | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
@@ -104,13 +104,13 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 
 
 ## Windows Fundamentals
-- [ ] [THM | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [X] [THM | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
       
-- [ ] [THM | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [X] [THM | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
       
-- [ ] [THM | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [X] [THM | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
-- [ ] [THM | Active Directory Basics](https://tryhackme.com/room/winadbasics)
+- [X] [THM | Active Directory Basics](https://tryhackme.com/room/winadbasics)
       
 
 ## Basics Rooms
