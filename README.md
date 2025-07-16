@@ -65,6 +65,8 @@
 
 - [ ] [THM | Introduction to Cyber Threat Intelligence](https://tryhackme.com/room/cyberthreatintel)
 
+- [ ] [THM | Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools)
+
 - [ ] [THM | Intro to Logs](https://tryhackme.com/room/introtologs)
 
 - [ ] [THM | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
