@@ -95,6 +95,10 @@
 
 - [ ] [THM | Phishing Emails In Action](https://tryhackme.com/room/phishingemails2rytmuv)
 
+- [ ] [THM | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
+
+- [ ] [THM | Pyramid Of Pain](https://tryhackme.com/room/pyramidofpainax)
+
 - [ ] [THM | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold) -- Postpone for later. Prereqs are premium.
       
 - [ ] [THM | Preparation](https://tryhackme.com/room/preparation) -- Postpone
@@ -159,6 +163,8 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 
 ## Recon
 - [ ] [THM | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)
+
+- [ ] [THM | Unified Kill Chaim](https://tryhackme.com/room/unifiedkillchain)
       
 - [ ] [THM | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
