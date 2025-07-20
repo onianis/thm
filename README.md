@@ -33,6 +33,22 @@
 
 
 ## Intro Rooms
+- [X] [THM | Welcome](https://tryhackme.com/room/hello)
+
+- [X] [THM | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+
+- [X] [THM | Tutorial](https://tryhackme.com/room/tutorial)
+
+- [X] [THM | OpenVPN](https://tryhackme.com/room/openvpn)
+
+- [X] [THM | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+
+- [X] [THM | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+
+- [X] [THM | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+
+- [X] [THM | Regular expressions](https://tryhackme.com/room/catregex)
+      
 - [X] [THM | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
       
 - [X] [THM | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
@@ -57,17 +73,13 @@
       
 - [X] [THM | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
       
-- [ ] [THM | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold) -- Postpone for later. Prereqs are premium.
-      
 - [X] [THM | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
-      
-- [ ] [THM | Preparation](https://tryhackme.com/room/preparation) -- Postpone
 
-- [ ] [THM | Introduction to Cyber Threat Intelligence](https://tryhackme.com/room/cyberthreatintel)
+- [X] [THM | Introduction to Cyber Threat Intelligence](https://tryhackme.com/room/cyberthreatintel)
 
-- [ ] [THM | Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools)
+- [X] [THM | Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools)
 
-- [ ] [THM | Intro to Logs](https://tryhackme.com/room/introtologs)
+- [X] [THM | Intro to Logs](https://tryhackme.com/room/introtologs)
 
 - [ ] [THM | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
@@ -77,21 +89,15 @@
 
 - [ ] [THM | SDLC](https://tryhackme.com/room/sdlc)
 
-- [X] [THM | Welcome](https://tryhackme.com/room/hello)
+- [ ] [THM | Intro to Endpoint Security](https://tryhackme.com/room/introtoendpointsecurity)
 
-- [X] [THM | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [ ] [THM | Phishing Analysis Fundamentals](https://tryhackme.com/room/phishingemails1tryoe)
 
-- [X] [THM | Tutorial](https://tryhackme.com/room/tutorial)
+- [ ] [THM | Phishing Emails In Action](https://tryhackme.com/room/phishingemails2rytmuv)
 
-- [X] [THM | OpenVPN](https://tryhackme.com/room/openvpn)
-
-- [X] [THM | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
-
-- [X] [THM | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
-
-- [X] [THM | Introductory Researching](https://tryhackme.com/room/introtoresearch)
-
-- [X] [THM | Regular expressions](https://tryhackme.com/room/catregex)
+- [ ] [THM | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold) -- Postpone for later. Prereqs are premium.
+      
+- [ ] [THM | Preparation](https://tryhackme.com/room/preparation) -- Postpone
 
 
 ## Linux Fundamentals
@@ -245,6 +251,10 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 - [ ] [THM | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
 
 - [ ] [THM | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
+
+- [ ] [THM | Wazuh](https://tryhackme.com/room/wazuhct)
+
+- [ ] [THM | Snort](https://tryhackme.com/room/snort)
 
 
 ## Container Security
