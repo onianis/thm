@@ -83,9 +83,11 @@
 
 - [ ] [THM | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
-- [ ] [THM | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
+- [X] [THM | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
       
-- [ ] [THM | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
+- [X] [THM | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
+
+- [ ] [THM | Intro to Containerisation](https://tryhackme.com/room/introtocontainerisation)
 
 - [ ] [THM | SDLC](https://tryhackme.com/room/sdlc)
 
