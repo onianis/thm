@@ -2,7 +2,7 @@
 
 | Topic                                                                  | Number of Rooms | Number of Completed Rooms |
 | -------------------------------------------------                      | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**                                 |     **36**      |          **32**           |
+| **[Introductory Rooms](#intro-rooms)**                                 |     **41**      |          **37**           |
 | **[Linux Fundamentals - COMPLETE](#linux-fundamentals)**               |      **2**      |           **2**           |
 | **[Windows Fundamentals - COMPLETE](#windows-fundamentals)**           |      **4**      |           **4**           |
 | **[Basic Rooms](#basics-rooms)**                                       |     **16**      |           **6**           |
@@ -45,11 +45,15 @@
 
 - [X] [THM | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
+- [X] [THM | Careers in Cyber](https://tryhackme.com/room/careersincyber)
+
 - [X] [THM | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
 - [X] [THM | Regular expressions](https://tryhackme.com/room/catregex)
       
 - [X] [THM | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
+
+- [X] [THM | Security Principles](https://tryhackme.com/room/securityprinciples)
       
 - [X] [THM | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
       
@@ -97,6 +101,12 @@
 
 - [X] [THM | Pyramid Of Pain](https://tryhackme.com/room/pyramidofpainax)
 
+- [X] [THM | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokK)
+
+- [X] [THM | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
+
+- [X] [THM | Common Attacks](https://tryhackme.com/room/commonattacks)
+
 - [ ] [THM | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro) -- Postpone
 
 - [ ] [THM | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold) -- Postpone
@@ -107,7 +117,7 @@
 
 
 ## Linux Fundamentals
-- [X] [THM |  Modules](https://tryhackme.com/room/linuxmodules)
+- [X] [THM | Linux Modules](https://tryhackme.com/room/linuxmodules)
       
 - [X] [THM | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
@@ -132,9 +142,9 @@ Alternative sources (due to paywalling of Linux Fundamentals):
       
 - [X] [THM | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
       
-- [ ] [THM | Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
+- [X] [THM | Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
       
-- [ ] [THM | Hypervisor Internals](https://tryhackme.com/r/room/hypervisorinternals)
+- [X] [THM | Hypervisor Internals](https://tryhackme.com/r/room/hypervisorinternals)
       
 - [ ] [THM | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 
@@ -188,7 +198,7 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 ## Scripting
 - [ ] [THM | Custom Tooling Using Python](https://tryhackme.com/room/customtoolingpython)
 
-- [ ] [THM | Python Basics](https://tryhackme.com/room/pythonbasics)
+- [X] [THM | Python Basics](https://tryhackme.com/room/pythonbasics)
 
 - [ ] [THM | Python Playground](https://tryhackme.com/room/pythonplayground)
 
@@ -206,15 +216,23 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 ## Networking
 - [ ] [THM | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-- [ ] [THM | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [X] [THM | Network Services](https://tryhackme.com/room/networkservices)
+
+- [X] [THM | Network Services 2](https://tryhackme.com/room/networkservices2)
+
+- [X] [THM | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+
+- [X] [THM | How Websites Work](https://tryhackme.com/room/howwebsiteswork)
+
+- [X] [THM | Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 
 - [ ] [THM | Networking](https://tryhackme.com/room/bpnetworking)
 
 - ~~[THM | Intro to LAN](https://tryhackme.com/room/introtolan)~~ -- Now PREMIUM. [Alternative resource](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet)
 
-- [ ] [THM | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [X] [THM | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
-- [ ] [THM | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [X] [THM | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 - [ ] [THM | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
@@ -569,9 +587,9 @@ Alternative sources (due to paywalling of Linux Fundamentals):
       
 
 ## Easy CTF
-- [ ] [THM | Oracle 9](https://tryhackme.com/room/oracle9)
+- [X] [THM | Oracle 9](https://tryhackme.com/room/oracle9)
       
-- [ ] [THM | Billing](https://tryhackme.com/room/billing)
+- [X] [THM | Billing](https://tryhackme.com/room/billing)
       
 - [ ] [THM | Light](https://tryhackme.com/room/lightroom)
       
