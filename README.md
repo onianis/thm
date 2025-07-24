@@ -148,9 +148,9 @@ Alternative sources (due to paywalling of Linux Fundamentals):
       
 - [ ] [THM | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 
-- [ ] [THM | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
+- [X] [THM | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
 
-- [ ] [THM | x86 Architecture Overview](https://tryhackme.com/room/x8664arch)
+- [X] [THM | x86 Architecture Overview](https://tryhackme.com/room/x8664arch)
 
 - [ ] [THM | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
 
@@ -206,11 +206,11 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 
 - [ ] [THM | Peak Hill](https://tryhackme.com/room/peakhill)
 
-- [ ] [THM | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
+- [X] [THM | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 
-- [ ] [THM | Bash Scripting](https://tryhackme.com/room/bashscripting)
+- [X] [THM | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
-- [ ] [THM | Learn Rust](https://tryhackme.com/room/rust)
+- [X] [THM | Learn Rust](https://tryhackme.com/room/rust)
 
 
 ## Networking
