@@ -202,7 +202,7 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 
 - [ ] [THM | Python Playground](https://tryhackme.com/room/pythonplayground)
 
-- [ ] [THM | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
+- [X] [THM | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 
 - [ ] [THM | Peak Hill](https://tryhackme.com/room/peakhill)
 
@@ -214,7 +214,7 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 
 
 ## Networking
-- [ ] [THM | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [X] [THM | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
 - [X] [THM | Network Services](https://tryhackme.com/room/networkservices)
 
@@ -272,7 +272,7 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 
 - [ ] [THM | ffuf](https://tryhackme.com/room/ffuf)
 
-- [ ] [THM | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
+- ~~[ ] [THM | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)~~ -- Now PREMIUM.
 
 - [ ] [THM | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
