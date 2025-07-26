@@ -107,9 +107,9 @@
 
 - [X] [THM | Common Attacks](https://tryhackme.com/room/commonattacks)
 
-- [ ] [THM | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro) -- Postpone
+- [X] [THM | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro) -- Postpone
 
-- [ ] [THM | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold) -- Postpone
+- [X] [THM | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold) -- Postpone
       
 - [ ] [THM | Preparation](https://tryhackme.com/room/preparation) -- Postpone
 
@@ -172,15 +172,15 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 
 
 ## Recon
-- [ ] [THM | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)
+- [X] [THM | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)
 
-- [ ] [THM | Unified Kill Chaim](https://tryhackme.com/room/unifiedkillchain)
+- [X] [THM | Unified Kill Chaim](https://tryhackme.com/room/unifiedkillchain)
       
-- [ ] [THM | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+- [X] [THM | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
-- [ ] [THM | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+- [X] [THM | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
-- [ ] [THM | Content Discovery](https://tryhackme.com/room/contentdiscovery)
+- ~~[THM | Content Discovery](https://tryhackme.com/room/contentdiscovery)~~ -- Now PREMIUM.
 
 - [ ] [THM | OhSINT](https://tryhackme.com/room/ohsint)
 
