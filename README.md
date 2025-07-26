@@ -182,17 +182,17 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 
 - ~~[THM | Content Discovery](https://tryhackme.com/room/contentdiscovery)~~ -- Now PREMIUM.
 
-- [ ] [THM | OhSINT](https://tryhackme.com/room/ohsint)
+- [X] [THM | OhSINT](https://tryhackme.com/room/ohsint)
 
-- [ ] [THM | Shodan.io](https://tryhackme.com/room/shodan)
+- [X] [THM | Shodan.io](https://tryhackme.com/room/shodan)
 
-- [ ] [THM | Google Dorking](https://tryhackme.com/room/googledorking)
+- [X] [THM | Google Dorking](https://tryhackme.com/room/googledorking)
 
-- [ ] [THM | WebOSINT](https://tryhackme.com/room/webosint)
+- ~~[THM | WebOSINT](https://tryhackme.com/room/webosint)~~ -- Now PRIVATE.
 
-- [ ] [THM | Sakura Room](https://tryhackme.com/room/sakura)
+- [X] [THM | Sakura](https://tryhackme.com/room/sakura)
 
-- [ ] [THM | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
+- [X] [THM | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
 
 ## Scripting
