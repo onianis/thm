@@ -2,34 +2,34 @@
 
 | Topic                                                                  | Number of Rooms | Number of Completed Rooms |
 | -------------------------------------------------                      | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**                                 |     **41**      |          **37**           |
+| **[Introductory Rooms](#intro-rooms)**                                 |     **40**      |          **37**           |
 | **[Linux Fundamentals - COMPLETE](#linux-fundamentals)**               |      **2**      |           **2**           |
 | **[Windows Fundamentals - COMPLETE](#windows-fundamentals)**           |      **4**      |           **4**           |
-| **[Basic Rooms](#basics-rooms)**                                       |     **16**      |           **6**           |
-| **[Reconnaissance](#recon)**                                           |     **10**      |                           |
-| **[Scripting](#scripting)**                                            |      **7**      |                           |
-| **[Networking](#networking)**                                          |      **7**      |                           |
-| **[Tooling](#tooling)**                                                |     **19**      |                           |
-| **[Cryptography & Hashes](#cryptography--hashes)**                     |      **7**      |                           |
+| **[Basic Rooms](#basics-rooms)**                                       |     **16**      |          **11**           |
+| **[Reconnaissance - COMPLETE](#recon)**                                |      **9**      |           **9**           |
+| **[Scripting](#scripting)**                                            |      **8**      |           **7**           |
+| **[Networking](#networking)**                                          |      **9**      |           **8**           |
+| **[Tooling](#tooling)**                                                |     **20**      |                           |
+| **[Container Security](#container-security)**                          |      **3**      |                           |
+| **[Cryptography & Hashes](#cryptography--hashes)**                     |      **9**      |                           |
 | **[Steganography](#steganography)**                                    |      **6**      |                           |
-| **[Web](#web)**                                                        |     **30**      |                           |
+| **[Web](#web)**                                                        |     **31**      |                           |
 | **[Android](#android)**                                                |      **1**      |                           |
-| **[Forensics](#forensics)**                                            |     **12**      |                           |
+| **[Forensics](#forensics)**                                            |     **29**      |                           |
 | **[WiFi Hacking](#wi-fi-hacking)**                                     |      **1**      |                           |
 | **[Reverse Engineering](#reverse-engineering)**                        |     **10**      |                           |
-| **[Malware Analysis](#malware-analysis)**                              |      **8**      |                           |
+| **[Malware Analysis](#malware-analysis)**                              |      **9**      |                           |
 | **[Privilege Escalation](#privesc)**                                   |     **13**      |                           |
-| **[Windows](#windows)**                                                |      **9**      |                           |
-| **[Active Directory](#active-directory)**                              |      **6**      |                           |
+| **[Windows](#windows)**                                                |     **10**      |          **1**            |
+| **[Active Directory](#active-directory)**                              |      **7**      |                           |
 | **[PCAP Analysis](#pcap-analysis)**                                    |      **4**      |                           |
 | **[Buffer Overflow](#buffer-overflow)**                                |      **4**      |                           |
-| **[Easy CTF](#easy-ctf)**                                              |     **52**      |                           |
-| **[Medium CTF](#medium-ctf)**                                          |     **55**      |                           |
-| **[Hard CTF](#hard-ctf)**                                              |     **40**      |                           |
-| **[Miscellaneous](#misc)**                                             |     **40**      |                           |
-| **[Special Events](#special-events)**                                  |     **10**      |                           |
-| **[Container Security](#container-security)**                          |      **2**      |                           |
-| **TOTAL ROOMS:**                                                       | **>= 392**      |          **44**           |
+| **[Easy CTF](#easy-ctf)**                                              |     **99**      |          **2**            |
+| **[Medium CTF](#medium-ctf)**                                          |    **108**      |                           |
+| **[Hard CTF](#hard-ctf)**                                              |     **45**      |                           |
+| **[Miscellaneous](#misc)**                                             |     **47**      |                           |
+| **[Special Events](#special-events)**                                  |     **12**      |                           |
+| **TOTAL ROOMS:**                                                       | **>= 556**      |          **81**           |
 
 
 ## Intro Rooms
@@ -50,8 +50,6 @@
 - [X] [THM | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
 - [X] [THM | Regular expressions](https://tryhackme.com/room/catregex)
-      
-- [X] [THM | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 
 - [X] [THM | Security Principles](https://tryhackme.com/room/securityprinciples)
       
@@ -73,7 +71,7 @@
       
 - [X] [THM | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
       
-- [X] [THM | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
+- [ ] [THM | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
       
 - [X] [THM | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
       
@@ -107,16 +105,16 @@
 
 - [X] [THM | Common Attacks](https://tryhackme.com/room/commonattacks)
 
-- [X] [THM | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro) -- Postpone
+- [X] [THM | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
-- [X] [THM | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold) -- Postpone
+- [X] [THM | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
       
 - [ ] [THM | Preparation](https://tryhackme.com/room/preparation) -- Postpone
 
 - [ ] [THM | SDLC](https://tryhackme.com/room/sdlc) -- Postpone
 
 
-## Linux Fundamentals
+## Linux Fundamentals - COMPLETE
 - [X] [THM | Linux Modules](https://tryhackme.com/room/linuxmodules)
       
 - [X] [THM | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
@@ -127,7 +125,7 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 - [A reddit community where Linux challenges are posted daily](https://www.reddit.com/r/linuxupskillchallenge/)
 
 
-## Windows Fundamentals
+## Windows Fundamentals - COMPLETE
 - [X] [THM | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
       
 - [X] [THM | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
@@ -138,7 +136,7 @@ Alternative sources (due to paywalling of Linux Fundamentals):
       
 
 ## Basics Rooms
-- [ ] [THM | Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
+- [X] [THM | Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
       
 - [X] [THM | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
       
@@ -160,6 +158,17 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 
 - [X] [THM | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
+- [ ] [THM | CC: Steganography](https://tryhackme.com/room/ccstego)
+
+- [ ] [THM | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
+
+- [ ] [THM | Musical Stego](https://tryhackme.com/room/musicalstego)
+
+- [ ] [THM | Madness](https://tryhackme.com/room/madness)
+
+- [ ] [THM | Psycho Break](https://tryhackme.com/room/psychobreak)
+
+- [ ] [THM | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 - [X] [THM | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
 - [X] [THM | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
@@ -171,7 +180,7 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 - [ ] [THM | UltraTech](https://tryhackme.com/room/ultratech1)
 
 
-## Recon
+## Recon - COMPLETE
 - [X] [THM | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)
 
 - [X] [THM | Unified Kill Chaim](https://tryhackme.com/room/unifiedkillchain)
@@ -196,7 +205,7 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 
 
 ## Scripting
-- [ ] [THM | Custom Tooling Using Python](https://tryhackme.com/room/customtoolingpython)
+- [X] [THM | Custom Tooling Using Python](https://tryhackme.com/room/customtoolingpython)
 
 - [X] [THM | Python Basics](https://tryhackme.com/room/pythonbasics)
 
@@ -204,7 +213,7 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 
 - [X] [THM | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 
-- [ ] [THM | Peak Hill](https://tryhackme.com/room/peakhill)
+- [X] [THM | Peak Hill](https://tryhackme.com/room/peakhill)
 
 - [X] [THM | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 
@@ -226,7 +235,7 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 
 - [X] [THM | Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 
-- [ ] [THM | Networking](https://tryhackme.com/room/bpnetworking)
+- ~~[THM | Networking](https://tryhackme.com/room/bpnetworking)~~ -- Now PRIVATE.
 
 - ~~[THM | Intro to LAN](https://tryhackme.com/room/introtolan)~~ -- Now PREMIUM. [Alternative resource](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet)
 
@@ -272,7 +281,7 @@ Alternative sources (due to paywalling of Linux Fundamentals):
 
 - [ ] [THM | ffuf](https://tryhackme.com/room/ffuf)
 
-- ~~[ ] [THM | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)~~ -- Now PREMIUM.
+- ~~[THM | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)~~ -- Now PREMIUM.
 
 - [ ] [THM | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
@@ -546,7 +555,7 @@ Alternative sources (due to paywalling of Linux Fundamentals):
       
 - [ ] [THM | Anthem](https://tryhackme.com/room/anthem)
       
-- [ ] [THM | Blue](https://tryhackme.com/room/blue)
+- [X] [THM | Blue](https://tryhackme.com/room/blue)
 
 
 ## Active Directory
